@@ -2,7 +2,7 @@
 
 I am a robotics and machine learning researcher, developing generalizable skills for robots to deploy in household robotics. 
 
-- 🎓 I am a PhD student at TU Darmstadt, advised by [Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters).
-- 🤖 My research explores ways to integrate Physics and Geometrical inductive biases to learn generalizable robotics manipulation.
+- 🎓 I am a Postdoctoral researcher at DFKI and TU Darmstadt.
+- 🤖 I am interested in learning generalizable robotics manipulation skills by combining Deep Generative Models, Motion Planning and Control, Optimization, and Reinforcement Learning. 
 
-If it sounds like we might get along, [hit me up](mailto:julen@robot-learning.de).
+Feel free to reach me [here](mailto:julen@robot-learning.de).
